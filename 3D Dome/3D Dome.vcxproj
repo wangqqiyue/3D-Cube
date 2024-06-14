@@ -128,10 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Util.cpp" />
+    <ClCompile Include="Shape3D.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Util.h" />
+    <ClInclude Include="olcPixelGameEngine.h" />
+    <ClInclude Include="Shape3D.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

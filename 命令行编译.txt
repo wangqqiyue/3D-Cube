@@ -1,0 +1,3 @@
+C:\Users\17964\Desktop\game_learning\3D Dome\3D Dome>g++ -o "3DDemo.exe" main.cpp Shape3D.cpp -luser32 -lgdi32 -lopengl32 -lgdiplus -lShlwapi -lstdc++fs -lDwmapi -static -std=c++17 -I.
+
+C:\Users\17964\Desktop\game_learning\3D Dome\3D Dome>g++ -o "3DDemo32.exe" main.cpp Shape3D.cpp -luser32 -lgdi32 -lopengl32 -lgdiplus -lShlwapi -lstdc++fs -lDwmapi -static -std=c++17 -I. -m32
